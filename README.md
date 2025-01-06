@@ -41,5 +41,30 @@ Este proyecto es un **contador de segundos** desarrollado con React. Muestra el 
 4. Inicia el servidor de desarrollo:
    ```bash
     npm start
+## Estructura del Proyecto
+    App.jsx: Componente principal que maneja el estado y lógica del contador.
+    SecondsCounter.jsx: Componente personalizado que representa los dígitos del contador.
+    index.js: Punto de entrada que monta la aplicación.
+## Uso
+    El contador inicia automáticamente al cargar la página.
+    Usa los botones para:
+        Pausar el contador.
+        Reanudar el conteo.
+        Reiniciar el contador a cero.
+    Configura una cuenta regresiva inicial o define alertas personalizadas según tus necesidades.
+
+## Contribuciones
+Si deseas contribuir, por favor, crea un fork del repositorio y envía un pull request con tus mejoras o sugerencias.
+
+## Licencia
+Este proyecto está bajo la licencia MIT.
+
+## Autor
+Desarrollado por [JulioRom]
+Contacto: julioandrescampos@gmail.com
+GitHub: https://github.com/JulioRom
+
+
+
 
 
