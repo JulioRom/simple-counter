@@ -64,24 +64,27 @@ Simple Counter es una aplicación desarrollada con React que actúa como un cont
 - Configura alertas personalizadas usando los botones de **"Alert at 10s"** o **"Alert at 20s"**. Se mostrará un mensaje cuando el tiempo alcanzado coincida con el valor configurado.
 
 ## Contribuciones
-Si deseas contribuir al proyecto:
+¡Tu contribución es bienvenida! Sigue estos pasos para colaborar:
 
--Haz un fork del repositorio.
--Crea una nueva rama para tus cambios:
-    ```bash
-    git checkout -b feature-nombre
--Realiza tus cambios y haz un commit:
+1. Haz un fork del repositorio.
+2. Crea una nueva rama para tus cambios:
+   ```bash
+   git checkout -b feature-nombre
+3. Realiza tus cambios y haz un commit:
     ```bash
     git commit -m "Descripción de tus cambios"
--Envía un pull request para revisión.
+4. Envía un pull request para revisión.
 
 ## Licencia
-Este proyecto está bajo la licencia MIT.
+
+Este proyecto está bajo la licencia **MIT**. Consulta el archivo `LICENSE` para más detalles.
 
 ## Autor
-Desarrollado por [JulioRom]
-Contacto: julioandrescampos@gmail.com
-GitHub: https://github.com/JulioRom
+
+- **Desarrollado por JulioRom**  
+- **Contacto:** [julioandrescampos@gmail.com](mailto:julioandrescampos@gmail.com)  
+- **GitHub:** [https://github.com/JulioRom](https://github.com/JulioRom)
+
 
 
 
