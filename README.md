@@ -42,9 +42,10 @@ Este proyecto es un **contador de segundos** desarrollado con React. Muestra el 
    ```bash
     npm start
 ## Estructura del Proyecto
-    App.jsx: Componente principal que maneja el estado y lógica del contador.
-    SecondsCounter.jsx: Componente personalizado que representa los dígitos del contador.
-    index.js: Punto de entrada que monta la aplicación.
+- **App.jsx**: Componente principal que maneja el estado y lógica del contador.
+- **SecondsCounter.jsx**: Componente personalizado que representa los dígitos del contador.
+- **index.js**: Punto de entrada que monta la aplicación.
+
 ## Uso
     El contador inicia automáticamente al cargar la página.
     Usa los botones para:
