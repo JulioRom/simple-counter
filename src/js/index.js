@@ -1,13 +1,13 @@
-//import react into the bundle
 import React from "react";
-import ReactDOM from "react-dom/client";
+import ReactDOM from "react-dom";
+import Application from "./Application";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "@fortawesome/fontawesome-free/css/all.min.css";
 
-// include your styles into the webpack bundle
-import "../styles/index.css";
+ReactDOM.createRoot(document.getElementById("root")).render(
+<React.StrictMode>
+<Application />
+</React.StrictMode>  
+);
 
-//import your own components
-import Home from "./component/home.jsx";
-
-//render your react application
-ReactDOM.createRoot(document.getElementById('app')).render(<Home/>);
 

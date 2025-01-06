@@ -1,46 +1,45 @@
-<!-- hide -->
+# Seconds Counter - React Project
 
-> ⚠️ This repository is deprecated and has no maintenance; we recommend using the [React Hello Vite](https://github.com/4GeeksAcademy/react-hello-vite) template instead.
+## Descripción
 
-# Hello World with React boilerplate
+Este proyecto es un **contador de segundos** desarrollado con React. Muestra el tiempo transcurrido desde la carga de la página y ofrece funcionalidades avanzadas como cuenta regresiva, opciones para pausar, reiniciar y reanudar el contador, además de alertas personalizables. Diseñado con Bootstrap y Font Awesome para un diseño moderno y responsivo.
 
-Start coding a react application
+---
 
-<!-- endhide -->
+## Características
 
-## How to start coding?
+- **Contador de Segundos:** Muestra el tiempo transcurrido desde que se carga la página.
+- **Cuenta Regresiva:** Permite configurar un temporizador decreciente.
+- **Control de Funcionalidades:** Opciones para pausar, reiniciar y reanudar el contador.
+- **Alertas Personalizadas:** Notifica al usuario al alcanzar un tiempo específico.
+- **Diseño Responsivo:** Compatible con dispositivos móviles y de escritorio.
 
-- Install the packages with `$ npm install`.
-- Run the webpack server with `$ npm run start`
+---
 
-You can update the `styles/index.css` or `js/index.js` depending on your needs.
-Add more files into your, `./src/js/components` or styles folder as you need them.
+## Tecnologías Utilizadas
 
-## Local Installation (skip if you are working on codespaces or gitpod)
+- **React.js**
+- **Bootstrap**
+- **Font Awesome**
+- **HTML5 & CSS3**
+- **JavaScript (ES6)**
 
-Download the boilerplate using git
+---
 
-```
-$ git clone https://github.com/4GeeksAcademy/react-hello.git
-$ cd react-hello
-```
+## Instalación y Uso
 
-## Publish your website!
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/seconds-counter.git
 
-This boilerplate is 100% compatible with the free [github pages](https://pages.github.com/) and [vercel](https://vercel.com/) hosting.
+2. Navega al directorio del proyecto:
+   ```bash
+    cd seconds-counter
+3. Instala las dependencias:
+   ```bash
+    npm install
+4. Inicia el servidor de desarrollo:
+   ```bash
+    npm start
 
-It takes just 2 minutes to deploy, [click here to start the process](https://github.com/4GeeksAcademy/react-hello/blob/master/docs/DEPLOY.md).
 
-## Other features
-
-- Automatic Code Formatting: Use of [Prettier](https://prettier.io/) for automatic code indentation and formatting.
-- Error reporting: Use of [eslint](https://eslint.org/) for better error reporting.
-- Hot Deploy: Use of [Webpack Development Server](https://webpack.js.org/configuration/dev-server/) for hot deploy and live reload.
-- One-command publish of the code to github pages with `npm run deploy:github`.
-- Babel 7 (really fast).
-
-### Contributors
-
-This template was built as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
-
-You can find other templates and resources like this at the [school github page](https://github.com/4geeksacademy/).
